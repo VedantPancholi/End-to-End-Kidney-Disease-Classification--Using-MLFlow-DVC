@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/VedantPancholi/End-to-End-Kidney-Disease-Classification--Using-MLFlow-DVC
+Author: VedantPancholi
+Author-email: vedantpancholi0927@gmail.com
+Project-URL: Bug Tracker, https://github.com/VedantPancholi/End-to-End-Kidney-Disease-Classification--Using-MLFlow-DVC/issues
+
 # End-to-End-Kidney-Disease-Classification---using-MLFlow-DVC
 # Kidney-Disease-Classification-MLflow-DVC
 
